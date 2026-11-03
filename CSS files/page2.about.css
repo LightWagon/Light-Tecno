@@ -564,7 +564,7 @@ body:has(#nightToggle:checked) {
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
-    border: 2px solid #000;
+    border: 2px solid #000000;
 }
 
 .profile-name {
@@ -581,6 +581,6 @@ body:has(#nightToggle:checked) {
 }
 
 .profile-toggle:focus-visible + .profile-prompt {
-    outline: 2px solid #000;
+    outline: 2px solid #000000;
     outline-offset: 3px;
 }
